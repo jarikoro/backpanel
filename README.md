@@ -2,4 +2,4 @@
 
 ## echizencity x tannancatv
 
-https://echizencitygithub.io/backpanel/
+https://echizencity.github.io/backpanel/
